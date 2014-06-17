@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "apimocker": ">= 0.1.7"
+    "apimocker": "git+https://git@github.com/marexandre/apimocker.git#patch-1"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
